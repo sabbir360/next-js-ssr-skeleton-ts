@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is still work in progress [WIP]. But give you idea about how can we render a page with typescript + nextjs from server side. Mostly follow `pages/about.tsx`.
+
+## TODO
+  - Well structure. E.g. components, functions extensible guideline 
+  - Standard code and best practices
+  - Build guideline
+
 ## Getting Started
 
 First, run the development server:
